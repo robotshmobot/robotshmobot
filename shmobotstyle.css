@@ -1,0 +1,96 @@
+body {
+background-color: #12121A;
+font-family: 'Space Mono', monospace;
+color: #919198;
+font-size: 0.66em;
+line-height: 1.25em;
+padding: 2em;
+overflow: hidden;
+}
+
+h1 {
+font-size: 1em;
+font-weight: normal;
+color: #f1f1fA;
+}
+
+h2 {
+font-size: 1em;
+font-weight: normal;
+}
+
+a {
+color: #919198;
+text-decoration: none;
+}
+
+a:visited {
+color: #919198;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+a:active {
+color: #919198;
+}
+
+.pad5em {
+  padding-bottom: 0.5em;
+}
+
+.top-left {
+  position: absolute;
+  left: 2em;
+  right: auto;
+  top: 2em;
+  bottom: auto;
+}
+
+.top-right {
+  position: absolute;
+  left: auto;
+  right: 2em;
+  top: 2em;
+  bottom: auto;
+}
+
+.bottom-left {
+  display: flex;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display; -ms-flexbox;
+  display: flex
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  position: absolute;
+  left: 2em;
+  right: auto;
+  top: auto;
+  bottom: 2em;
+}
+
+.bottom-right {
+  position: absolute;
+  left: auto;
+  right: 2em;
+  top: auto;
+  bottom: 2em;
+}
+
+.avatar-container {
+  width: 100vw;
+  height: 92vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.avatar {
+  width: 10em;
+  height: 10em;
+}
