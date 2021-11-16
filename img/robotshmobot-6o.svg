@@ -1,0 +1,19 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 8H26V9H27V27H26V28H10V27H9V20H7V16H9V9H10V8Z" fill="#EDD4BE"/>
+<rect width="2" height="6" transform="matrix(-1 0 0 1 23 16)" fill="#CE908C"/>
+<rect width="3" height="2" transform="matrix(-1 0 0 1 23 20)" fill="#CE908C"/>
+<rect width="4" height="3" transform="matrix(-1 0 0 1 20 16)" fill="white"/>
+<rect width="4" height="3" transform="matrix(-1 0 0 1 27 16)" fill="white"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 27 17)" fill="#443A2B"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 20 17)" fill="#443A2B"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12 15H11V20H9V27H10V29H13V31H16V32H24V31H27V28H28V25V24V23H27V24H25V23H19V24H16V23H13V22H12V20V15ZM24 26H23V25H21V26H20V24H24V26Z" fill="#6A6050"/>
+<path opacity="0.1" fill-rule="evenodd" clip-rule="evenodd" d="M8 17H10V18H9V19H8V18V17Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20 4H23H24H25V5H26V9H27V10H26H25V9H24H23H20V10H17H14V12H13V14H12V16H9V9H10V7H11V6H14V5H17H20V4Z" fill="#6A6050"/>
+<rect width="5" height="1" transform="matrix(-1 0 0 1 28 14)" fill="#6A6050"/>
+<rect opacity="0.1" width="4" height="1" transform="matrix(-1 0 0 1 27 19)" fill="black"/>
+<rect width="5" height="1" transform="matrix(-1 0 0 1 21 14)" fill="#6A6050"/>
+<rect opacity="0.1" width="4" height="1" transform="matrix(-1 0 0 1 20 19)" fill="black"/>
+<path opacity="0.15" fill-rule="evenodd" clip-rule="evenodd" d="M24 4H25V5H26V9H27V10H26H25V9H24H23H22H21H20V10H19V9H20V8H21H22V7H23V5H24V4ZM27 23H28V28H27V31H26H25H24V32H23H22H21H20H19H18V31H19V30H20V27H21V25H22H23V27H24V29H25V28H26V26H27V23Z" fill="white"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M21 4H20V5H21V4ZM20 5V6H17V7H14V8H12V9H11V16H9V9H10V7H11V6H14V5H17H20ZM11 25V20H9V25V27H10V29H13V30V31H16V30H15V29H14V27H13V26H12V25H11ZM16 31V32H17V31H16Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9 15H21V16H23V15H29V16V20H28V16H24V20H23V17H21V20H20V16H16V20H15V16H9V15ZM16 20H20V21H16V20ZM24 20H28V21H24V20Z" fill="black"/>
+</svg>
