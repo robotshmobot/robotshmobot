@@ -102,6 +102,7 @@ a:active {
 @media screen and (max-width: 520px) {
   body {
     width: auto;
+    overflow: auto;
   }
   .top-left {
     position: absolute;
